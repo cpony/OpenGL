@@ -1,0 +1,104 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(Sphere.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  glad.c
+E:\vs2019\OpenGl\includes\glad.c(270,16): error C2061: 语法错误: 标识符“glad_glAccum”
+E:\vs2019\OpenGl\includes\glad.c(270,16): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(270,29): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(272,20): error C2061: 语法错误: 标识符“glad_glAlphaFunc”
+E:\vs2019\OpenGl\includes\glad.c(272,20): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(272,37): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(273,30): error C2061: 语法错误: 标识符“glad_glAreTexturesResident”
+E:\vs2019\OpenGl\includes\glad.c(273,30): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(273,57): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(274,23): error C2061: 语法错误: 标识符“glad_glArrayElement”
+E:\vs2019\OpenGl\includes\glad.c(274,23): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(274,43): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(276,16): error C2061: 语法错误: 标识符“glad_glBegin”
+E:\vs2019\OpenGl\includes\glad.c(276,16): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(276,29): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(291,17): error C2061: 语法错误: 标识符“glad_glBitmap”
+E:\vs2019\OpenGl\includes\glad.c(291,17): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(291,31): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(300,19): error C2061: 语法错误: 标识符“glad_glCallList”
+E:\vs2019\OpenGl\includes\glad.c(300,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(300,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(301,20): error C2061: 语法错误: 标识符“glad_glCallLists”
+E:\vs2019\OpenGl\includes\glad.c(301,20): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(301,37): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(305,21): error C2061: 语法错误: 标识符“glad_glClearAccum”
+E:\vs2019\OpenGl\includes\glad.c(305,21): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(305,39): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(312,21): error C2061: 语法错误: 标识符“glad_glClearIndex”
+E:\vs2019\OpenGl\includes\glad.c(312,21): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(312,39): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(314,30): error C2061: 语法错误: 标识符“glad_glClientActiveTexture”
+E:\vs2019\OpenGl\includes\glad.c(314,30): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(314,57): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(316,20): error C2061: 语法错误: 标识符“glad_glClipPlane”
+E:\vs2019\OpenGl\includes\glad.c(316,20): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(316,37): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(317,18): error C2061: 语法错误: 标识符“glad_glColor3b”
+E:\vs2019\OpenGl\includes\glad.c(317,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(317,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(318,19): error C2061: 语法错误: 标识符“glad_glColor3bv”
+E:\vs2019\OpenGl\includes\glad.c(318,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(318,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(319,18): error C2061: 语法错误: 标识符“glad_glColor3d”
+E:\vs2019\OpenGl\includes\glad.c(319,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(319,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(320,19): error C2061: 语法错误: 标识符“glad_glColor3dv”
+E:\vs2019\OpenGl\includes\glad.c(320,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(320,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(321,18): error C2061: 语法错误: 标识符“glad_glColor3f”
+E:\vs2019\OpenGl\includes\glad.c(321,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(321,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(322,19): error C2061: 语法错误: 标识符“glad_glColor3fv”
+E:\vs2019\OpenGl\includes\glad.c(322,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(322,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(323,18): error C2061: 语法错误: 标识符“glad_glColor3i”
+E:\vs2019\OpenGl\includes\glad.c(323,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(323,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(324,19): error C2061: 语法错误: 标识符“glad_glColor3iv”
+E:\vs2019\OpenGl\includes\glad.c(324,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(324,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(325,18): error C2061: 语法错误: 标识符“glad_glColor3s”
+E:\vs2019\OpenGl\includes\glad.c(325,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(325,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(326,19): error C2061: 语法错误: 标识符“glad_glColor3sv”
+E:\vs2019\OpenGl\includes\glad.c(326,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(326,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(327,19): error C2061: 语法错误: 标识符“glad_glColor3ub”
+E:\vs2019\OpenGl\includes\glad.c(327,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(327,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(328,20): error C2061: 语法错误: 标识符“glad_glColor3ubv”
+E:\vs2019\OpenGl\includes\glad.c(328,20): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(328,37): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(329,19): error C2061: 语法错误: 标识符“glad_glColor3ui”
+E:\vs2019\OpenGl\includes\glad.c(329,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(329,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(330,20): error C2061: 语法错误: 标识符“glad_glColor3uiv”
+E:\vs2019\OpenGl\includes\glad.c(330,20): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(330,37): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(331,19): error C2061: 语法错误: 标识符“glad_glColor3us”
+E:\vs2019\OpenGl\includes\glad.c(331,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(331,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(332,20): error C2061: 语法错误: 标识符“glad_glColor3usv”
+E:\vs2019\OpenGl\includes\glad.c(332,20): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(332,37): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(333,18): error C2061: 语法错误: 标识符“glad_glColor4b”
+E:\vs2019\OpenGl\includes\glad.c(333,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(333,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(334,19): error C2061: 语法错误: 标识符“glad_glColor4bv”
+E:\vs2019\OpenGl\includes\glad.c(334,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(334,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(335,18): error C2061: 语法错误: 标识符“glad_glColor4d”
+E:\vs2019\OpenGl\includes\glad.c(335,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(335,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(336,19): error C2061: 语法错误: 标识符“glad_glColor4dv”
+E:\vs2019\OpenGl\includes\glad.c(336,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(336,35): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(337,18): error C2061: 语法错误: 标识符“glad_glColor4f”
+E:\vs2019\OpenGl\includes\glad.c(337,18): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(337,33): error C2513: “ ”: 在“=”前没有声明变量
+E:\vs2019\OpenGl\includes\glad.c(338,19): error C2061: 语法错误: 标识符“glad_glColor4fv”
+E:\vs2019\OpenGl\includes\glad.c(338,19): error C2059: 语法错误:“;”
+E:\vs2019\OpenGl\includes\glad.c(338,19): fatal error C1003: 错误计数超过 100；正在停止编译
