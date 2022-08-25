@@ -1,0 +1,14 @@
+﻿  glad.c
+  mian.cpp
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(165,25): warning C4018: “<”: 有符号/无符号不匹配
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(167,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(209,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(243,34): warning C4018: “<”: 有符号/无符号不匹配
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(322,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(323,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(327,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(328,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(330,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(331,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL01\mian.cpp(340,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  FlowOpenGL01.vcxproj -> E:\vs2019\OpenGl\Debug\FlowOpenGL01.exe

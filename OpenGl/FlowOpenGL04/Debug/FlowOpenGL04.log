@@ -1,0 +1,12 @@
+﻿  mian.cpp
+E:\vs2019\OpenGl\FlowOpenGL04\shader_t.h(81,40): warning C4101: “e”: 未引用的局部变量
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(184,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(268,3): warning C4065: switch 语句包含“default”但是未包含“case”标签
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(278,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(279,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(283,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(284,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(286,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(287,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\FlowOpenGL04\mian.cpp(296,28): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  FlowOpenGL04.vcxproj -> E:\vs2019\OpenGl\Debug\FlowOpenGL04.exe
