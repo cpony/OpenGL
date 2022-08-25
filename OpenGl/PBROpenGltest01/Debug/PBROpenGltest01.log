@@ -1,0 +1,4 @@
+﻿  glad.c
+  mian.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  PBROpenGltest01.vcxproj -> E:\vs2019\OpenGl\Debug\PBROpenGltest01.exe
