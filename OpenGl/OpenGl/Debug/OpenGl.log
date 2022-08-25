@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(OpenGl.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+E:\vs2019\OpenGl\OpenGl\main.cpp(22,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\vs2019\OpenGl\OpenGl\main.cpp(23,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\vs2019\OpenGl\OpenGl\main.cpp(177,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\OpenGl\main.cpp(178,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\OpenGl\main.cpp(182,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\OpenGl\main.cpp(183,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\OpenGl\main.cpp(185,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\OpenGl\main.cpp(186,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\vs2019\OpenGl\OpenGl\main.cpp(273,9): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+E:\vs2019\OpenGl\OpenGl\main.cpp(272,9): warning C4244: “参数”: 从“float”转换到“unsigned int”，可能丢失数据
+  OpenGl.vcxproj -> E:\vs2019\OpenGl\Debug\OpenGltest01.exe
